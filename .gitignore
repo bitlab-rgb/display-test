@@ -42,3 +42,4 @@ yarn-error.log*
 *.keystore
 *.bat
 *.apks
+*.aab

@@ -1,8 +1,8 @@
 {
-  "name": "org.cordova.quasar.app",
+  "name": "display-test",
   "displayName": "Display Test",
   "version": "1.0.0",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "description": "Find display defects by showing pure colors.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
