@@ -1,6 +1,6 @@
 {
   "name": "display-test",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Find display defects by showing pure colors",
   "productName": "Display Test",
   "author": "xiao",

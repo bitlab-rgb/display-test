@@ -22,6 +22,7 @@ const COLORS = [
   "#CCCCCC",
   "#888888",
   "#444444",
+  "#222222",
   "#000000",
 ];
 var colorIndex = ref(0);
