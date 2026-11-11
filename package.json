@@ -1,6 +1,6 @@
 {
   "name": "display-test",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Find display defects by showing pure colors",
   "productName": "Display Test",
   "author": "xiao",
@@ -40,7 +40,7 @@
     "last 5 Opera versions"
   ],
   "engines": {
-    "node": "^20 || ^18 || ^16",
+    "node": "^24 || ^22 || ^20",
     "npm": ">= 6.13.4",
     "yarn": ">= 1.21.1"
   }
